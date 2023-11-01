@@ -1,0 +1,3 @@
+BasicAuth=false
+MicrosoftOauth2=false
+GoogleOauth2=true

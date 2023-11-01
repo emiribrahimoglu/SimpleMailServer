@@ -1,0 +1,74 @@
+29.08.2023 09:45:18
+Mail ID: 24
+Mail gönderilirken hata alındı
+535: 5.7.8 Username and Password not accepted. Learn more at
+5.7.8  https://support.google.com/mail/?p=BadCredentials x4-20020aa7dac4000000b005256e0797acsm5350938eds.37 - gsmtp
+Mail To: eibrahimoglu@bimser.com.tr(Bu parantezin solu boşsa mail bu yüzden iletilememiştir)
+
+
+
+29.08.2023 09:45:18
+Mail ID: 24
+Mail gönderilemedi. Veritabanında trycount değeri güncellendi
+
+
+
+
+29.08.2023 09:45:19
+Mail ID: 17
+Mail gönderilirken hata alındı
+535: 5.7.8 Username and Password not accepted. Learn more at
+5.7.8  https://support.google.com/mail/?p=BadCredentials j17-20020aa7c411000000b005257f2c057fsm5246625edq.33 - gsmtp
+Mail To: eibrahimoglu@bimser.com.tr(Bu parantezin solu boşsa mail bu yüzden iletilememiştir)
+
+
+
+29.08.2023 09:45:19
+Mail ID: 17
+Mail gönderilemedi. Veritabanında trycount değeri güncellendi
+
+
+
+
+29.08.2023 09:45:59
+Mail ID: 24
+Mail başarıyla gönderildi
+
+
+
+
+29.08.2023 09:46:00
+Mail ID: 17
+Mail başarıyla gönderildi
+
+
+
+
+29.08.2023 09:48:50
+Mail ID: 26
+Mail başarıyla gönderildi
+
+
+
+
+29.08.2023 09:49:01
+Mail ID: 25
+Mail başarıyla gönderildi
+
+
+
+
+29.08.2023 11:38:53
+Mail ID: 27
+Mail başarıyla gönderildi
+
+
+
+
+29.08.2023 11:43:55
+Mail ID: 28
+Mail başarıyla gönderildi
+
+
+
+

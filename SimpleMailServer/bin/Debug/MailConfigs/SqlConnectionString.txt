@@ -1,0 +1,1 @@
+Data Source=.;Initial Catalog=DatabaseName;Integrated Security=False;User ID=id;Password=password

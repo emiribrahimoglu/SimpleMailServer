@@ -1,0 +1,211 @@
+28.08.2023 16:14:31
+Mail ID: 16
+Mail gönderilirken hata alındı
+The SMTP server has unexpectedly disconnected.
+Mail To: eibrahimoglu@bimser.com.tr(Bu parantezin solu boşsa mail bu yüzden iletilememiştir)
+
+
+
+28.08.2023 16:14:31
+Mail ID: 16
+Mail gönderilemedi. Veritabanında trycount değeri güncellendi
+
+
+
+
+28.08.2023 16:45:37
+Mail ID: 16
+Mail gönderilirken hata alındı
+535: 5.7.8 Username and Password not accepted. Learn more at
+5.7.8  https://support.google.com/mail/?p=BadCredentials v10-20020aa7d80a000000b005233deb30aesm4430618edq.10 - gsmtp
+Mail To: eibrahimoglu@bimser.com.tr(Bu parantezin solu boşsa mail bu yüzden iletilememiştir)
+
+
+
+28.08.2023 16:45:37
+Mail ID: 16
+Mail gönderilemedi. Veritabanında trycount değeri güncellendi
+
+
+
+
+28.08.2023 16:45:57
+Mail ID: 16
+Mail gönderilirken hata alındı
+535: 5.7.8 Username and Password not accepted. Learn more at
+5.7.8  https://support.google.com/mail/?p=BadCredentials n11-20020a17090625cb00b009934855d8f1sm4702256ejb.34 - gsmtp
+Mail To: eibrahimoglu@bimser.com.tr(Bu parantezin solu boşsa mail bu yüzden iletilememiştir)
+
+
+
+28.08.2023 16:45:57
+Mail ID: 16
+Mail gönderilemedi. Veritabanında trycount değeri güncellendi
+
+
+
+
+28.08.2023 16:48:09
+Mail ID: 16
+Mail gönderilirken hata alındı
+535: 5.7.8 Username and Password not accepted. Learn more at
+5.7.8  https://support.google.com/mail/?p=BadCredentials x8-20020a170906710800b0099c971ba285sm4660359ejj.5 - gsmtp
+Mail To: eibrahimoglu@bimser.com.tr(Bu parantezin solu boşsa mail bu yüzden iletilememiştir)
+
+
+
+28.08.2023 16:48:09
+Mail ID: 16
+Mail gönderilemedi. Veritabanında trycount değeri güncellendi
+
+
+
+
+28.08.2023 16:55:35
+Mail ID: 16
+Mail gönderilirken hata alındı
+The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.0 Authentication Required. Learn more at
+Mail To: eibrahimoglu@bimser.com.tr(Bu parantezin solu boşsa mail bu yüzden iletilememiştir)
+
+
+
+28.08.2023 16:55:35
+Mail ID: 16
+Mail gönderilemedi. Veritabanında trycount değeri güncellendi
+
+
+
+
+28.08.2023 17:01:42
+Mail ID: 16
+Mail başarıyla gönderildi
+
+
+
+
+28.08.2023 17:20:59
+Mail ID: 17
+Mail gönderilirken hata alındı
+The SMTP server has unexpectedly disconnected.
+Mail To: eibrahimoglu@bimser.com.tr(Bu parantezin solu boşsa mail bu yüzden iletilememiştir)
+
+
+
+28.08.2023 17:20:59
+Mail ID: 17
+Mail gönderilemedi. Veritabanında trycount değeri güncellendi
+
+
+
+
+28.08.2023 17:22:38
+Mail ID: 17
+Mail gönderilirken hata alındı
+The SMTP server has unexpectedly disconnected.
+Mail To: eibrahimoglu@bimser.com.tr(Bu parantezin solu boşsa mail bu yüzden iletilememiştir)
+
+
+
+28.08.2023 17:22:38
+Mail ID: 17
+Mail gönderilemedi. Veritabanında trycount değeri güncellendi
+
+
+
+
+28.08.2023 17:23:52
+Mail ID: 17
+Mail gönderilirken hata alındı
+The SMTP server has unexpectedly disconnected.
+Mail To: eibrahimoglu@bimser.com.tr(Bu parantezin solu boşsa mail bu yüzden iletilememiştir)
+
+
+
+28.08.2023 17:23:52
+Mail ID: 17
+Mail gönderilemedi. Veritabanında trycount değeri güncellendi
+
+
+
+
+28.08.2023 17:25:14
+Mail ID: 17
+Mail başarıyla gönderildi
+
+
+
+
+28.08.2023 17:43:21
+Mail ID: 17
+Mail başarıyla gönderildi
+
+
+
+
+28.08.2023 17:48:40
+Mail ID: 17
+Mail başarıyla gönderildi
+
+
+
+
+28.08.2023 18:36:06
+Mail ID: 17
+Mail başarıyla gönderildi
+
+
+
+
+28.08.2023 18:39:45
+Mail ID: 17
+Mail başarıyla gönderildi
+
+
+
+
+28.08.2023 18:41:39
+Mail ID: 17
+Mail başarıyla gönderildi
+
+
+
+
+28.08.2023 18:56:34
+Mail ID: 17
+Mail gönderilirken hata alındı
+535: 5.7.8 Username and Password not accepted. Learn more at
+5.7.8  https://support.google.com/mail/?p=BadCredentials d5-20020a1709067f0500b0099b7276235esm4792986ejr.93 - gsmtp
+Mail To: eibrahimoglu@bimser.com.tr(Bu parantezin solu boşsa mail bu yüzden iletilememiştir)
+
+
+
+28.08.2023 18:56:34
+Mail ID: 17
+Mail gönderilemedi. Veritabanında trycount değeri güncellendi
+
+
+
+
+28.08.2023 18:58:14
+Mail ID: 17
+Mail gönderilirken hata alındı
+535: 5.7.8 Username and Password not accepted. Learn more at
+5.7.8  https://support.google.com/mail/?p=BadCredentials d12-20020aa7c1cc000000b0052544441babsm4642073edp.72 - gsmtp
+Mail To: eibrahimoglu@bimser.com.tr(Bu parantezin solu boşsa mail bu yüzden iletilememiştir)
+
+
+
+28.08.2023 18:58:14
+Mail ID: 17
+Mail gönderilemedi. Veritabanında trycount değeri güncellendi
+
+
+
+
+28.08.2023 19:00:23
+Mail ID: 17
+Mail başarıyla gönderildi
+
+
+
+
